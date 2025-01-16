@@ -62,7 +62,7 @@ For a comprehensive list of his publications, refer to his Google Scholar profil
 - [**LinkedIn**](https://www.linkedin.com/in/nguyenthanh-asia/)
 
 
-## Updated References
+### References
 
 1. [Meeting the Team Behind the Vietnamese Math Chess on iOS and Android](https://dantri.com.vn/giao-duc/gap-go-nhom-sinh-vien-dua-co-toan-viet-nam-len-he-dieu-hanh-ios-va-android-20151204100053435.htm) (written in Vietnamese)  
 2. [Student Scientific Research Published in International Journals](https://dantri.com.vn/giao-duc/cong-trinh-nghien-cuu-khoa-hoc-sinh-vien-duoc-cong-bo-tren-tap-chi-quoc-te-20151127161341512.htm) (written in Vietnamese)  
@@ -71,5 +71,4 @@ For a comprehensive list of his publications, refer to his Google Scholar profil
 5. [The Creator of the Vietnamese Math Chess](https://www.fit.uet.vnu.edu.vn/tham-tac-gia-co-toan-viet-nam/) (written in Vietnamese)  
 6. [Applying AI in Legal Practice](https://hocvientuphap.edu.vn/UserControls/News/pFormPrint.aspx?UrlListProcess=/qt/tintuc/Lists/HoatDongCuaHocVien&ItemID=2656) (written in Vietnamese)  
 7. [Scholarships for Young Vietnamese Engineers and Scientists](https://vnexpress.net/hoc-bong-toi-10-000-usd-danh-cho-ky-su-va-nha-khoa-hoc-tre-viet-nam-3919774.html) (written in Vietnamese)  
-
-*Note: This article is based on information available as of January 2025.*
+8. [Impressive Finale of the FameLab Science Presentation Contest](https://vtv.vn/cong-nghe/an-tuong-dem-chung-ket-cuoc-thi-thuyet-trinh-khoa-hoc-famelab-20150423172624607.htm) (written in Vietnamese)  
